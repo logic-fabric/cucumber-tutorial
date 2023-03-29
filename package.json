@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-tutorial",
+  "version": "1.0.0",
+  "description": "A training repo based on [Cucumber.js tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=javascript).",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-jsde"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logic-fabric/cucumber-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logic-fabric/cucumber-tutorial/issues"
+  },
+  "homepage": "https://github.com/logic-fabric/cucumber-tutorial#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.0"
+  }
+}
