@@ -4,7 +4,7 @@
   "description": "A training repo based on [Cucumber.js tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=javascript).",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-jsde"
+    "test": "cucumber-js"
   },
   "repository": {
     "type": "git",
