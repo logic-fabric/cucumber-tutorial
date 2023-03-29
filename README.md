@@ -1,2 +1,3 @@
-# cucumber-tutorial
-A training repo based on Cucumber.js tutorial - Mar 2023
+# Cucumber tutorial - March 2023
+
+A training repo based on [Cucumber.js tutorial](https://cucumber.io/docs/guides/10-minute-tutorial/?lang=javascript).
