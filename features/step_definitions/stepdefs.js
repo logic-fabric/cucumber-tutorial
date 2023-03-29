@@ -2,7 +2,7 @@ const assert = require("assert");
 const { Given, When, Then } = require("@cucumber/cucumber");
 
 function isItFriday(today) {
-  return "Nope";
+  return today === "Friday" ? "TGIF" : "Nope";
 }
 
 Given("today is Sunday", function () {
